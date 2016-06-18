@@ -1,0 +1,6 @@
+Title: Affairs
+Author: calli
+AuthorUrl: 
+License: GPL-3
+DisplayMode: Showcase
+
